@@ -1,0 +1,21 @@
+{
+  "name": "vanilla-emitter",
+  "version": "1.0.0",
+  "description": "상태 기반 이벤트 에미터",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seungdeng17/vanilla-emitter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seungdeng17/vanilla-emitter/issues"
+  },
+  "homepage": "https://github.com/seungdeng17/vanilla-emitter#readme"
+}
